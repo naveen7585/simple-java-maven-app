@@ -70,3 +70,7 @@
     </plugins>
   </build>
 </project>
+<repository>
+  <id>mvn-repository jetty</id>
+  <url>https://mvnrepository.com/artifact/</url>
+</repository>
